@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dmytro Doduliak</h1>
 <h3 align="center">Professional Python and Web Developer, System Administrator and Data Entry Specialist.</h3>
 
-<p align="center"> <img src="https://lh3.googleusercontent.com/pw/AP1GczMbR-aJJEUNTrfHQ_0oMTuUauGbrnahHNEYIbeRarMWmTEpFesInmglnq6oup0nuozv1-KgF0cE5NlK2aYyiO6wgw3lve84SeG5XILayKAz6AnSiL9w3BAJsN33LSuNVtFhmieMdL5fF4ay6UgpJu-7=w600-h300-s-no-gm.gif"/> </p>
-
 <p align="center">
   <img src="https://cdn.tech.eu/uploads/2022/05/flag-745.gif" alt="Ukrainian Flag" width="360" height="240"/>
   <img src="https://simple-animation.ru/uploads/posts/2023-01/1673697551_kanada-gif.gif" alt="Canadian Flag" width="360" height="240"/>
