@@ -10,8 +10,6 @@
 
 [![Dmytro Doduliak profile views](https://u8views.com/api/v1/github/profiles/78031310/views/day-week-month-total-count.svg)](https://u8views.com/github/Lyranaut)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lyranaut&label=Profile%20views&color=0e75b6&style=flat" alt="lyranaut" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lyranaut" alt="lyranaut" /></a> </p>
 
 - 🌱 I’m currently learning **Linux**
