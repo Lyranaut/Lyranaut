@@ -26,6 +26,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/dmytro-doduliak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dmytro-doduliak" height="30" width="40" /></a>
 <a href="https://discord.gg/471974327445618688" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="471974327445618688" height="30" width="40" /></a>
+<a href="https://t.me/DimaModer" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
