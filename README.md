@@ -6,6 +6,8 @@
   <img src="https://simple-animation.ru/uploads/posts/2023-01/1673697551_kanada-gif.gif" alt="Canadian Flag" width="360" height="240"/>
 </p>
 
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lyranaut&label=Profile%20views&color=0e75b6&style=flat" alt="lyranaut" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lyranaut" alt="lyranaut" /></a> </p>
