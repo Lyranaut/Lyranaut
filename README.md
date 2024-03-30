@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dmytro Doduliak</h1>
 <h3 align="center">Professional Python and Web Developer, System Administrator and Data Entry Specialist.</h3>
 
+<p align="center">
+  <img src="https://flagcdn.com/h80/ua.png" alt="Ukrainian Flag" width="80" height="80"/>
+  <img src="https://flagcdn.com/h80/ca.png" alt="Canadian Flag" width="80" height="80"/>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lyranaut&label=Profile%20views&color=0e75b6&style=flat" alt="lyranaut" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lyranaut" alt="lyranaut" /></a> </p>
