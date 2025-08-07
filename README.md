@@ -2,7 +2,7 @@
 <h3 align="center">Professional Python and Web Developer, System Administrator and Data Entry Specialist.</h3>
 
 <p align="center">
-  <img src="https://simple-animation.ru/uploads/posts/2023-01/1673697551_kanada-gif.gif" alt="Canadian Flag" width="360" height="240"/>
+  <img src="https://simple-animation.ru/uploads/posts/2022-09/1664435769_ukraina.gif" alt="Ukraine Flag" width="360" height="240"/>
   <img src="https://simple-animation.ru/uploads/posts/2023-01/1673697551_kanada-gif.gif" alt="Canadian Flag" width="360" height="240"/>
 </p>
 
