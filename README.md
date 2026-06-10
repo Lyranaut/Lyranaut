@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dmytro Doduliak</h1>
-<h3 align="center">Professional Programmer (Python and Web Developer, System Administrator and Data Entry Specialist)</h3>
+<h3 align="center">Professional Programmer (Python and Web Developer), System Administrator and Data Entry Specialist</h3>
 
 <p align="center">
   <img src="https://simple-animation.ru/uploads/posts/2022-09/1664435769_ukraina.gif" alt="Ukraine Flag" width="360" height="240"/>
